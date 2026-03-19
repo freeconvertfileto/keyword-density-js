@@ -2,7 +2,7 @@
 
 Analyze keyword frequency and density in text with stop-word filtering and a sortable results table, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/seo-tools/keyword-density
+**Live Demo:** https://file-converter-free.com/en/seo-tools/keyword-density-online
 
 ## How It Works
 
